@@ -18,6 +18,7 @@ How it works
 3. Submission of the test is just like a submission of a pull request. In addition to the code-review and the comments we will merge in great submissions.
 4. With each merge, we will improve the test and make it more interesting.
 5. Write as if you were writing a code for an open-source library. Comments, tests are more than welcomed
+6. We consider the test assignment carrefully and we spend a lot of time in reviewing it and writing back comments.
 
 Our Stack
 ------
