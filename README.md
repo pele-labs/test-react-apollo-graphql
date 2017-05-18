@@ -35,11 +35,15 @@ The Task
 The current task is to build an on-boarding chat experience as a website. It should work on mobile as well as in desktops. A good example can be found at Lemonade, one of our favorite apps with a brilliant UX.
 
 Here are a few examples:
+
 ![enter image description here](http://res.cloudinary.com/hlandao/image/upload/c_scale,h_492/v1495119534/lemo1_j6p8bc.jpg)
+
 
 ![enter image description here](http://res.cloudinary.com/hlandao/image/upload/c_scale,h_492/v1495119697/lemo0_wrfeux.jpg)
 
+
 ![enter image description here](http://res.cloudinary.com/hlandao/image/upload/c_scale,h_492/v1495119534/lemo6_lcudhr.jpg)
+
 
 You should structure the app the way you want.
 We recommend on the following, but you need to choose:
