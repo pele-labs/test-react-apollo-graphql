@@ -59,9 +59,13 @@ The final product should include the start of conversation, with at least one qu
 
 
 **Good luck!**
+
 We are here for any question (Just open an issue).
+
 Omri & Hadar
+
 http://twitter.com/okland
+
 http://twitter.com/hlandao
 
 
